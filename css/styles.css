@@ -12,9 +12,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: #202020;
 }
-img {
-  max-width: 100%;
-}
+
 .header {
   background-color: #f1f1f1;
   padding: 22px 0;
@@ -278,6 +276,7 @@ img {
   justify-content: center;
   align-items: center;
 }
+
 /* Настройки для разных экранов */
 @media (max-width: 1200px) {
   .header-container,
